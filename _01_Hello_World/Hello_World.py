@@ -1,5 +1,3 @@
-# 在main中返回 Hello, World!
+# 在main中返回 Hello, World
 
-def main():
-    print("Hello, World!")
-    pass
+print("Hello, World!")
